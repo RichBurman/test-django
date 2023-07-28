@@ -29,7 +29,8 @@ SECRET_KEY = 'django-insecure-_8k9%a$$*)k2!0+o1j+#jyxz9i)5-9kv#r+sa73_l7o)831j_2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-richburman-test-django-9s6ww5uvr3.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-richburman-test-django-9s6ww5uvr3.us2.codeanyapp.com',
+                 'rich-django-todo-app-aa7d9ec09b1e.herokuapp.com']
 
 
 # Application definition
